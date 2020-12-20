@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+p{
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+    text-decoration: double underline;
+    background-color: white;
+}
+h3,h4{
+text-align: center;    
+}
+body {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFTlPZTsEnMrmGcdbnZwGElF8XBPDwbVK_3w&usqp=CAU);  
+    font-style: italic;
+}
+section{
+    width: 1000px;
+    background-color: rgb(190, 144, 43);
+    margin: auto;
+    font-family: 'Work Sans', sans-serif;
+}
+h1{
+    font-size: 50px;
+    text-decoration: double underline;
+    text-align: center;
+}
+h3{
+    text-decoration: underline;
+}
+h5{
+    text-decoration: white underline;
+    color: white;
+    text-align: center;
+}
